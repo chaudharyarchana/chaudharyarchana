@@ -51,7 +51,6 @@ Government Engineering College, Ajmer *(2019 – 2023)*
 ## 🌐 Connect with Me
 📧 [archana.kumari.se@gmail.com](mailto:archana.kumari.se@gmail.com)  
 ---
-![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudharyarchana&show_icons=true&theme=radical&count_private=true)
 
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
